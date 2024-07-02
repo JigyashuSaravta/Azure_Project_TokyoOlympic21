@@ -34,3 +34,11 @@ This project is targeted at:
 - Analytics teams
 - Authorities in charge of large-scale athletic events
 - Individuals learning Azure data services and data engineering principles
+
+## Repository Contents
+
+- data: Contains the raw data fetched to Azure.
+- ProjectReport.pdf: Detailed project report.
+- Tableau_Viz.pdf: Contains individual visualizations and dashboard screenshots created using Tableau.
+- TokyoOlympic.twb: The Tableau workbook file for the project.
+- tokyo_olympic_transformation.ipynb: Jupyter notebook with the transformation code written in Azure Databricks.
