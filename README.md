@@ -17,7 +17,8 @@ The goal of this project was to create a robust, scalable data engineering syste
 7. Data Visualization: An interactive dashboard is created using Tableau, connected to Azure Synapse via OAuth for real-time analytics. The dashboard provides a user-friendly interface for displaying various visualizations.
 
 ## Tableau Dashboard
-![image](https://github.com/JigyashuSaravta/Azure_Project_TokyoOlympic21/assets/105642798/fc8f002d-dc61-4161-b56c-034286128e6a)
+<img width="582" alt="Screenshot 2024-07-02 at 7 42 37 PM" src="https://github.com/JigyashuSaravta/Azure_Project_TokyoOlympic21/assets/105642798/0c1753b6-dd45-4f88-89db-8d54daf944ce">
+
 
 ## Analysis and Discoveries
 - Gender Participation: Visualizations highlighted gender participation in several sports, revealing discrepancies and equality in athlete activity.
